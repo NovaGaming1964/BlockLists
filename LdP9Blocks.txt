@@ -47,3 +47,9 @@
 0.0.0.0 middledata.ldmnq.com
 0.0.0.0 alb-fc2psc581f288qx1e4.cn-shanghai.alb.aliyuncs.com
 0.0.0.0 www.google-analytics.com
+0.0.0.0 dxp.baidu.com
+0.0.0.0 dxp.e.shifen.com
+0.0.0.0 res.ldplayer.net
+0.0.0.0 res.ldplayer.net.w.cdngslb.com
+0.0.0.0 cdn.ldplayer.net
+0.0.0.0 d266zoinebx0lb.cloudfront.net
