@@ -31,10 +31,14 @@
 127.0.0.1 api.vip.miui.com
 127.0.0.1 connect.rom.miui.com
 127.0.0.1 app.market.xiaomi.com
-127.0.0.1 120.134.33.89
 127.0.0.1 sdkconfig.ad.xiaomi.com
-127.0.0.1 42.62.94.152
-127.0.0.1 114.54.23.44
 127.0.0.1 chinaunicom.com
+0.0.0.0 miman.io
+0.0.0.0 img-s-msn-com.akamaized.net
+0.0.0.0 api.setting.intl.miui.com
+0.0.0.0 global.api.huangye.miui.com
+0.0.0.0 in-fcm.sms.intl.xiaomi.com
+0.0.0.0 yulore-nsm-lb-2048901149.ap-south-1.elb.amazonaws.com
+0.0.0.0 gtglobal.intl.miui.com
 ###################OPTIONAL###############
 0.0.0.0 newsfeed.api.intl.miui.com
