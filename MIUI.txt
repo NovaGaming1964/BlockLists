@@ -40,5 +40,6 @@
 0.0.0.0 in-fcm.sms.intl.xiaomi.com
 0.0.0.0 yulore-nsm-lb-2048901149.ap-south-1.elb.amazonaws.com
 0.0.0.0 gtglobal.intl.miui.com
+0.0.0.0 gamebird-gtglobal.intl.miui.com
 ###################OPTIONAL###############
 0.0.0.0 newsfeed.api.intl.miui.com
