@@ -41,5 +41,7 @@
 0.0.0.0 yulore-nsm-lb-2048901149.ap-south-1.elb.amazonaws.com
 0.0.0.0 gtglobal.intl.miui.com
 0.0.0.0 gamebird-gtglobal.intl.miui.com
+0.0.0.0 mb.resolver.msg.global.xiaomi.net
+0.0.0.0 extranet-ipv4-pub-azpn.alb.xiaomi.com
 ###################OPTIONAL###############
 0.0.0.0 newsfeed.api.intl.miui.com
